@@ -104,7 +104,7 @@ Create a diagram of how the different parts of the server interact with one anot
 ### Part 2
 
 1. Implement the listings.server.model.js file
-  - You'll notice that this looks a lot like the ListingSchema.js file from Bootcamp Assignment #3 because it is exactly the same.
+  - You'll notice that this looks a lot like the ListingSchema.js file from Bootcamp Assignment #2 because it is exactly the same.
 2. Update your config file using the config.example.js
     - Add in your Mlab URI
     - Sign-up for a free public key https://opencagedata.com/ and add it to your config file - This key will allow us to access opencagedata's geocoding api to retreive coordinates for each building
